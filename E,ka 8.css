@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>SHOT GUN</h1>
+        <nav>
+            <li><a href="">HOME</a></li>
+            <li><a href="">ABOUT</a></li>
+            <li><a href="">PRODUCT</a></li>
+        </nav>
+    </header>
+    <section>
+        <img class="main-img" src="./Steel texture 3d logo mockup on modern wall.png" alt="">
+        <div class="content1">
+            <h1>SHOT GUN</h1>
+            <p>บริษัทช็อตกันเป็นบริษัทเกี่ยวกับขายปืน</p>
+            
+        </div>
+        <div class="content2">
+            <h1>Our PRODUCT</h1>
+            <div class="content-img">
+                <div class="product-img">
+                    <img src="./images.jpg" alt="">
+                    <p>ปืนสั้น</p>
+                </div>
+                <div class="product-img">
+                    <img src="./f286bf_dc0b7f9095cd4634a30cc8d7232373b6~mv2.webp" alt="">
+                    <p>ปืนกลหนัก</p>
+                </div>
+                <div class="product-img">
+                    <img src="./phoca_thumb_m_457vamint.png" alt="">
+                    <p>ลูกซอง</p>
+                </div>
+                <div class="product-img">
+                    <img src="./images (1).jpg" alt="">
+                    <p>ปืนกลเบา</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
